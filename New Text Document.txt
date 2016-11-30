@@ -137,7 +137,7 @@
 [1107/233618:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\system32\WINTRUST.dll
 [1107/233618:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7ff8d9200000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
 [1107/233618:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
-[1107/233618:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7ff8a9ea0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1107/233618:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7ff8a9ea0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completmmmmmmmmmmmmmmmmed. (0x12B)
 [1107/233618:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome_child.dll
 [1107/233618:ERROR:process_reader_win.cc(233)] ReadMemory at 0x7ff6dbbf0000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
 [1107/233618:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
